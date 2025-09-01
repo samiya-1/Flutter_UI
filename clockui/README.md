@@ -6,5 +6,6 @@ A Basic Analogue Clock ui with DarkMode and LightMode
 
 #### Screenshots
 
-![Landing page Screenshot ](screenshots/ScreeshotClockUiBlackmode.png)
-![Landing page Screenshot ](screenshots/ScreeshotClockUiWhitemode.png)
+<img src="screenshots/ScreeshotClockUiBlackmode.png" alt="Landing page Screenshot in Black mode" width="200">
+<img src="screenshots/ScreeshotClockUiWhitemode.png" alt="Landing page Screenshot in White mode" width="200">
+
